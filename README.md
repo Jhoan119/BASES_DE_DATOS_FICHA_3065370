@@ -11,6 +11,7 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 4. 🎨 **Ana Torres**
 5. 🎉 **Frank Caceres**
 6. **Kevin Andres Rojas**
+28. **Jhoan Noscue**
 
 ---
 
